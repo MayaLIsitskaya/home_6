@@ -1,0 +1,23 @@
+.btn {
+    background-color: var(--white);
+    padding: 0.5rem 2rem;
+    border: 0 solid var(--white);
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.btn-red {
+    margin-right: 3rem;
+    color: var(--red);
+    cursor: pointer;
+}
+
+.btn-green {
+    color: var(--green);
+    cursor: pointer;
+}

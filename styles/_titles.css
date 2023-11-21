@@ -1,0 +1,23 @@
+.head-title {
+    text-align: center;
+    color: var(--white);
+    letter-spacing: 0.5rem;
+}
+.info-block-title {
+    color: var(--green-dark);
+}
+
+.filters-title {
+    color: var(--green-dark);
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 1rem;
+}
+
+.sequence-title {
+    color: var(--gray);
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-top: 1rem;
+    font-size: 20px;
+}

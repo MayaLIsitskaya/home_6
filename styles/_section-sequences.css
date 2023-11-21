@@ -1,0 +1,39 @@
+.section-sequences {
+    margin-top: 3rem;
+    background-color: var(--white);
+    border-radius: 50px;
+    border: 20px solid var(--light-green);
+    width: 85%;
+    padding-bottom: 2rem;
+}
+
+.sequence-operation {
+    background-color: var(--white-darken);
+    border-radius: 10px;
+    float: left;
+    margin-left: 0.8rem;
+}
+
+.sphere {
+    background-color: var(--light-green);
+    border-radius: 50px;
+    color: var(--white);
+    position: relative;
+    width: 40px;
+    height: 40px;
+    padding: 0.5rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+
+.sequence-operation-step {
+    text-align: center;
+    padding: 0.5rem 1rem;
+}
+
+.sequence-operation-description {
+    text-align: center;
+    padding: 0 1rem;
+}

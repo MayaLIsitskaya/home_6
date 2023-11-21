@@ -1,0 +1,17 @@
+.footer {
+    background-color: var(--gray);
+}
+
+.icon {
+    width: 30px;
+    float: left;
+    margin-top: 0.6rem;
+    margin-left: 0.6rem;
+}
+
+.footer-bottom {
+    background-color: var(--green-darken);
+    color: var(--white);
+    text-align: center;
+    padding: 1rem 0;
+}

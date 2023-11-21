@@ -1,0 +1,37 @@
+.section-product {
+
+}
+
+.product-card {
+    float: right;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+}
+
+.product-block {
+    text-align: center;
+}
+
+.product-name {
+    color: var(--white);
+}
+
+.product-description {
+    color: var(--white);
+}
+
+.product-price li {
+    display: inline-block;
+    padding-left: 7rem;
+}
+
+.new-price {
+    font-weight: bold;
+    color: var(--white);
+}
+
+.old-price {
+    color: var(--light-green);
+    font-weight: bold;
+    text-decoration: line-through;
+}

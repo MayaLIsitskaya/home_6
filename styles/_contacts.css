@@ -1,0 +1,19 @@
+.contacts-info {
+    padding: 5rem;
+    background-image: url('https://images01.nicepage.io/27/ae/27aeafd4-9f29-4045-a123-f5581ff789bd.jpg');
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    background-position: 10% 32%;
+    color: var(--white);
+    font-size: 16px;
+}
+
+.contacts-info-text li {
+    padding: 0.5rem;
+}
+
+.where-to-find {
+    font-weight: bold;
+    font-size: 24px;
+}

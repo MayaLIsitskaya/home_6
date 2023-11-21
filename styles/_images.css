@@ -1,0 +1,19 @@
+.product-image {
+        width: 50%;
+        height: 20rem;
+        float: left;
+        margin-right: 1rem;
+        margin-left: 1rem;
+
+        background-image: url('https://img.freepik.com/free-photo/aerial-view-snow-covered-trees-mountains_198169-247.jpg?w=2000');
+        background-position: 50% 60%;
+        border-radius: 10px;
+}
+
+.photo {
+        width: 20%;
+        float: left;
+        margin-right: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 10px;
+}
